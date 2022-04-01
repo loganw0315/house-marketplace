@@ -20,6 +20,7 @@ function Explore() {
               alt="rent"
               className="exploreCategoryImg"
             />
+            <p className="categoryLabel">For Rent</p>
           </Link>
           <Link to="/category/sale">
             <img
@@ -27,6 +28,7 @@ function Explore() {
               alt="sell"
               className="exploreCategoryImg"
             />
+            <p className="categoryLabel">For Sale</p>
           </Link>
         </div>
       </main>
